@@ -14,7 +14,7 @@ This assignment was intended to illustrate how a "malicious" user can trick some
 
 Through doing this assignment I learned that without careful encryption techniques, malicious users can corrupt and impersonate others in messages. This problem illustrates the importance of cryptographic techniques to ensure message integrity and authenticity.
 
-# Project Three: ElectionResult 
+## Project Three: ElectionResult 
 https://github.com/AbbyLueck16/Electionresult<br>
 ***This assignment was completed for CISC 230, object oriented design and programming with Professor Akram***<br>
 This program calculates the result of an election based on the number of votes each candidate received in various "areas" as provided by user input.
