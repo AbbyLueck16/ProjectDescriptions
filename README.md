@@ -2,17 +2,20 @@
 This repository discusses the projects found within my GitHub that showcase some assignments I completed during my time studying Computer Science at the University of St. Thomas. These projects were parts of various classes, including Computer Architecture, Object Oriented Design and Programming, and Advanced Information Security. 
 
 ## Project One: MIPSfactorial
+https://github.com/AbbyLueck16/MIPSfactorial<br>
 ***This assignment was completed for CISC 340, computer architecture with Professor Lamb***<br>
 The purpose of this assignment was to implement my knowledge of recursion from previous courses and see how the code is stored in registers in MIPS assembly. This program calculates the factorial of an integer given by the user using a recursive approach. While the program was relatively simple, this project taught me about stack management and how registers are used in assembly language.
 
 
 ## Project Two: HashCollisionProject
+https://github.com/AbbyLueck16/HashCollisionProject<br>
 ***This assignment was completed for CISC 410, advanced information security with Dr. Yilek***<br>
 This assignment was intended to illustrate how a "malicious" user can trick somebody into signing a message that was altered. This assignment used the scenario of a personal assistant writing an email for her boss, who will sign it once completed. The personal assistant then is to find another message (with malicious meaning) that when signed hashes to the same as the original message. This then can be sent to the recipient with the correct signature from the boss but with a harmful altered message. 
 
 Through doing this assignment I learned that without careful encryption techniques, malicious users can corrupt and impersonate others in messages. This problem illustrates the importance of cryptographic techniques to ensure message integrity and authenticity.
 
 # Project Three: ElectionResult 
+https://github.com/AbbyLueck16/Electionresult<br>
 ***This assignment was completed for CISC 230, object oriented design and programming with Professor Akram***<br>
 This program calculates the result of an election based on the number of votes each candidate received in various "areas" as provided by user input.
 
